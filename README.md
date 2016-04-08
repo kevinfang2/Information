@@ -7,7 +7,7 @@ An extremely selective, extremely prestigious group of the finest programmers ac
 The application process for this group is rigorous. Do not be discouraged if you're unable to complete the tasks, they're designed to only be completed by the greatest.
 
 1. Create a fizzbuzz program in your language of choice.
-2. Fork this repository. Create a directory titled as your github username and add your fizzbuzz files. 
+2. Fork the Applications repo. Create a directory titled as your github username and add your fizzbuzz files. 
 3. Create a pull request.
 
 It typically takes 6-8 weeks for applications to process, and longer during the holiday season. 
